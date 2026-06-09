@@ -28,21 +28,27 @@ Business systems · Developer tools · Japan-focused web applications
 
 ## Selected Projects
 
-### HearthTheme
+### [TypeFusion Atlas](https://github.com/TypeFusion/typefusion-atlas)
+
+A TypeScript-powered personal engineering atlas that connects my projects, skills, learning logs, resume materials, and portfolio website.
+
+### [HearthTheme](https://theme.hearthcode.dev/)
 
 A warm-toned VS Code color theme designed for comfortable long coding sessions, with dark and light variants and accessibility-aware contrast.
 
-### JapanAPI
+### [JapanAPI](https://github.com/TypeFusion/JapanAPI)
 
-A practical API project for foreign programmers living in Japan, including daily coding challenge data, exchange rates, weather information, and Japan-related utilities.
+A Japan-focused API toolkit for foreign programmers living in Japan, including daily coding challenge data, exchange rates, weather information, and daily-life utilities.
 
-### Vue3 Drag & Drop Tools
+### [Vue3 Drag & Drop Tools](https://vue3-drag-drop-tools.vercel.app/)
 
 A Vue 3 configuration editor and drag-and-drop tool for building structured, interactive configuration workflows.
 
 ## What I am working on
 
-I am currently improving my GitHub profile and building a TypeScript-powered personal portfolio system that connects my projects, skills, learning logs, and resume materials.
+- Building **TypeFusion Atlas**, a TypeScript-powered portfolio and project knowledge system
+- Improving **JapanAPI** and Japan-focused developer tools
+- Strengthening my TypeScript, frontend architecture, and automation skills
 
 ## Career Focus
 
