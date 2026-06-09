@@ -1,6 +1,6 @@
 # Mark Y. · TypeFusion
 
-Frontend / Full-stack Engineer based in Tokyo.
+Frontend / Full-stack Engineer based in Tokyo.  
 I build maintainable TypeScript applications, developer tools, and business web systems.
 
 ## About me
@@ -9,21 +9,21 @@ I am a frontend / full-stack engineer working in Japan, focused on TypeScript, V
 
 My current interests are:
 
-* Type-safe frontend architecture
-* Business web applications and internal tools
-* Developer experience and automation
-* Practical tools for engineers living and working in Japan
-* Long-term personal engineering systems
+- Type-safe frontend architecture
+- Business web applications and internal tools
+- Developer experience and automation
+- Practical tools for engineers living and working in Japan
+- Long-term personal engineering systems
 
 ## Tech Stack
 
-**Frontend**
+**Frontend**  
 TypeScript · Vue · React · Nuxt · Next.js · Vite
 
-**Engineering**
+**Engineering**  
 REST API · OpenAPI · Zod · Testing · GitHub Actions · CI/CD
 
-**Product Areas**
+**Product Areas**  
 Business systems · Developer tools · Japan-focused web applications
 
 ## Selected Projects
@@ -40,15 +40,15 @@ A warm-toned VS Code color theme designed for comfortable long coding sessions, 
 
 A Japan-focused API toolkit for foreign programmers living in Japan, including daily coding challenge data, exchange rates, weather information, and daily-life utilities.
 
-### [Vue3 Drag & Drop Tools](https://vue3-drag-drop-tools.vercel.app/)
+### [Vue3 Drag & Drop Tools](https://github.com/TypeFusion/Vue3-Drag-Drop-Tools)
 
 A Vue 3 configuration editor and drag-and-drop tool for building structured, interactive configuration workflows.
 
 ## What I am working on
 
 - Building **TypeFusion Atlas**, a TypeScript-powered portfolio and project knowledge system
-- Improving **JapanAPI** and Japan-focused developer tools
-- Strengthening my TypeScript, frontend architecture, and automation skills
+- Improving Japan-focused developer tools
+- Strengthening my TypeScript, frontend architecture, testing, and automation skills
 
 ## Career Focus
 
@@ -56,5 +56,5 @@ I am working toward product-oriented engineering roles in Japan, especially fron
 
 ## Contact
 
-* GitHub: TypeFusion
-* Location: Tokyo, Japan
+- GitHub: [TypeFusion](https://github.com/TypeFusion)
+- Location: Tokyo, Japan
